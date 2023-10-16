@@ -7,3 +7,7 @@ Service Points represent physical locations that aggregate multiple services. Th
 ```
 composer require spryker-feature/service-points
 ```
+
+## Optional modules
+- [ServicePointsBackendApi ^0.4.0](https://github.com/spryker/service-points-backend-api) (Glue Backend)
+- [ServicePointsRestApi ^0.4.0](https://github.com/spryker/service-points-rest-api) (Legacy Glue)
