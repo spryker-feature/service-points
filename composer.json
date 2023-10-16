@@ -6,11 +6,19 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.0"
+        "php": ">=8.0",
+        "spryker-shop/sales-service-point-widget": "^0.1.0",
+        "spryker-shop/service-point-widget": "^0.6.0",
+        "spryker/sales-service-point": "^0.1.0",
+        "spryker/sales-service-point-gui": "^0.1.0",
+        "spryker/service-point": "^0.4.0",
+        "spryker/service-point-data-import": "^0.4.0",
+        "spryker/service-point-search": "^0.3.0",
+        "spryker/service-point-storage": "^0.4.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202212.x-dev"
+            "dev-master": "202311.x-dev"
         }
     }
 }
