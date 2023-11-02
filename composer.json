@@ -7,14 +7,14 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.0",
-        "spryker-shop/sales-service-point-widget": "^0.2.0",
-        "spryker-shop/service-point-widget": "^0.7.0",
-        "spryker/sales-service-point": "^0.2.0",
-        "spryker/sales-service-point-gui": "^0.2.0",
-        "spryker/service-point": "^0.5.0",
-        "spryker/service-point-data-import": "^0.5.0",
-        "spryker/service-point-search": "^0.4.0",
-        "spryker/service-point-storage": "^0.5.0"
+        "spryker-shop/sales-service-point-widget": "^1.0.0",
+        "spryker-shop/service-point-widget": "^1.0.0",
+        "spryker/sales-service-point": "^1.0.0",
+        "spryker/sales-service-point-gui": "^1.0.0",
+        "spryker/service-point": "^1.0.0",
+        "spryker/service-point-data-import": "^0.6.0",
+        "spryker/service-point-search": "^1.0.0",
+        "spryker/service-point-storage": "^1.0.0"
     },
     "extra": {
         "branch-alias": {
