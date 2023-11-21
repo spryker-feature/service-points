@@ -9,5 +9,5 @@ composer require spryker-feature/service-points
 ```
 
 ## Optional modules
-- [ServicePointsBackendApi ^1.0.0](https://github.com/spryker/service-points-backend-api) (Glue Backend)
+- [ServicePointsBackendApi ^1.1.0](https://github.com/spryker/service-points-backend-api) (Glue Backend)
 - [ServicePointsRestApi ^1.0.0](https://github.com/spryker/service-points-rest-api) (Legacy Glue)
