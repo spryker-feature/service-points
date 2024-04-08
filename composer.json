@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.0",
+        "php": ">=8.1",
         "spryker-shop/sales-service-point-widget": "^1.0.0",
         "spryker-shop/service-point-widget": "^1.1.0",
         "spryker/sales-service-point": "^1.0.0",
